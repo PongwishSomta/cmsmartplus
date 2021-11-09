@@ -6,4 +6,12 @@
 - Select นักท่องเที่ยวสามารถเลือกสถานที่ตามความชอบ หรือหมวดหมู่ที่นักท่องเที่ยวสนใจ
 - Post สำหรับผู้ประกอบการสามารถอัพโหลดกิจการที่ตัวเองเป็นเจ้าของเพื่อโปรโมทให้นักท่องเที่ยว
 
-📄เอกสารเสนอโครงการ : [cmsmartplus proposal.pdf](https://github.com/PongwishSomta/cmsmartplus/files/7506124/cmsmartplus.proposal.pdf)
+![poster](https://user-images.githubusercontent.com/68066923/140957522-d9beba1a-6abc-4f59-90c5-be09dcb0b8f5.jpg)
+
+📄เอกสารเสนอโครงการ : https://drive.google.com/file/d/1X9FP6rTsw4blB8hCoLYAhmJLKc4uCncW/view?usp=sharing
+
+### CMSMART PLUS STACK
+
+FRMEWORK ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+DATEBASE ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+UI DESIGN ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
